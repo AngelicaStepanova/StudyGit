@@ -101,6 +101,19 @@
           "RowNumber": 4,
           "RowSpan": 1,
           "Settings": []
+        },
+        {
+          "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
+          "NameGuid": "11b75938-e030-4600-b980-acd66d5edd16",
+          "Name": "Index",
+          "ColumnNumber": 1,
+          "ColumnSpan": 1,
+          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+          "ParentGuid": "6ebb5b65-5c4a-4d94-8f85-b675b44e373c",
+          "PropertyGuid": "730f4cf1-ef4e-4eb9-b6df-a7d2ccdcb9b6",
+          "RowNumber": 1,
+          "RowSpan": 1,
+          "Settings": []
         }
       ]
     }
@@ -156,6 +169,14 @@
       "IsRequired": true,
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
       "PreviousPropertyGuid": "d339d7ed-ee8b-4eae-8529-687309127f0d"
+    },
+    {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "730f4cf1-ef4e-4eb9-b6df-a7d2ccdcb9b6",
+      "Name": "Index",
+      "Code": "Index",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "b97e3e51-ae15-4325-ab32-de44b831ca73"
     }
   ],
   "PublicStructures": [],
